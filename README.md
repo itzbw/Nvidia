@@ -14,9 +14,9 @@ Exercise screenshot
 
 ### Succeed
 
-![alt text](assessment_01.png)
+![alt text](assessment_02.png)
 
-Certificate
+## Certificate
 ![alt text](nvidia.png)
 
 Course Link:
